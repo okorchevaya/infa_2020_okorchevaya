@@ -1,0 +1,13 @@
+import turtle as tur
+tur.speed(0)
+tur.shape('turtle')
+tur.forward(50)
+tur.left(90)
+tur.forward(50)
+tur.left(90)
+tur.forward(50)
+tur.right(90)
+tur.forward(50)
+tur.right(90)
+tur.forward(50)
+tur.left(90)
